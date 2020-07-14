@@ -1,0 +1,26 @@
+The console. log() is a function in JavaScript which is used to print any kind of variables defined 
+before in it or to just print any message that needs to be displayed to the user. 
+Syntax: console. log(A);
+
+
+The console.warn() method writes a warning to the console.
+Tip: When testing this method, be sure to have the console view visible 
+(press F12 to view the console).
+
+
+The Error Console is a tool available in most Mozilla-based applications that is used for reporting 
+errors in the application chrome and in web pages user opens. 
+It reports JavaScript-related errors and warnings, CSS errors and arbitrary messages from chrome code.
+
+
+
+The console. time() method starts a timer in the console view. 
+This method allows you to time certain operations in your code for testing purposes. 
+Use the console. timeEnd() method to end the timer and display the result in the console.
+
+
+
+A console table is a table whose top surface is supported by corbels or brackets rather 
+than by the usual four legs. It is thus similar to a supported shelf and is not designed to 
+serve as a stand-alone surface. It is frequently used as pier table 
+(which may have legs of any variety), to abut a pier wall.
